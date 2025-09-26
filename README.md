@@ -240,9 +240,9 @@ SOFTWARE.
 📞 Contact
 Zişan Abdan
 
-📧 Email: zisan@example.com
+📧 Email: zisanabdan@gmail.com
 
-💼 LinkedIn: linkedin.com/in/zisan-abdan
+💼 LinkedIn: linkedin.com/in/s-zisan-abdan
 
 🐙 GitHub: github.com/zisanabdan
 
@@ -251,7 +251,7 @@ Zişan Abdan
 🙏 Acknowledgments
 Course: Web Technologies and Programming 2025-2026
 
-Institution: [Your University Name]
+Institution: Suleyman Demirel University
 
 Inspiration: Modern web design trends and best practices
 
