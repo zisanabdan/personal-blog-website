@@ -5,8 +5,6 @@
 
 A modern, responsive personal blog website showcasing my journey as a Computer Engineering student and Android developer.
 
-![Website Preview](https://via.placeholder.com/800x400/667eea/white?text=Personal+Blog+Preview)
-
 ## 🚀 Live Demo
 
 🔗 **[View Live Website](https://personal-blog-website-gray.vercel.app)**
