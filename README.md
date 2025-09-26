@@ -335,4 +335,4 @@ SOFTWARE.
 ⭐ **If you found this project helpful, please give it a star!** ⭐
 
 
-**Made with ❤️ by [Zişan Abdan](https://github.com/your-username)**
+**Made with ❤️ by [Zişan Abdan](https://github.com/zisanabdan)**
