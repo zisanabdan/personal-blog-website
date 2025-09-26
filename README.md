@@ -1,5 +1,4 @@
 # personal-blog-website
-A personal blog website to highlight skills, projects, and tech journey.
 
 # 🌟 Zişan Abdan -
 # 🌟 Zişan Abdan - Personal Blog
@@ -13,8 +12,8 @@ A modern, responsive personal blog website showcasing my journey as a Computer E
 
 ## 🚀 Live Demo
 
+🔗 **[View Live Website](https://personal-blog-website-gray.vercel.app)**
 
-🔗 **[View Live Website](https://your-username.github.io/personal-blog)**
 
 
 ## 📋 Table of Contents
